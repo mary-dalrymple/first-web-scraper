@@ -1,0 +1,101 @@
+covered_entity,state,covered_entity_type,num_affected,submission_date,breach_type,breached_info_location,biz_assoc,description
+Seneca Family of Agencies,CA,Business Associate,1528,01/22/2022,Hacking/IT Incident,Network Server,Yes
+"Medical Healthcare Solutions, Inc.",MA,Business Associate,133997,01/22/2022,Hacking/IT Incident,Network Server,Yes
+"iRise Florida Spine and Joint Institute, LLC",FL,Healthcare Provider,61595,01/21/2022,Hacking/IT Incident,Email,No
+Independence Blue Cross,PA,Health Plan,591,01/21/2022,Hacking/IT Incident,Network Server,No
+"County of Kings, a political subdivision of the State of California",CA,Healthcare Provider,16590,01/21/2022,Hacking/IT Incident,Network Server,No
+Walgreen Co.,IL,Healthcare Provider,1471,01/21/2022,Unauthorized Access/Disclosure,Paper/Films,No
+University of Arkansas for Medical Sciences,AR,Healthcare Provider,518,01/21/2022,Unauthorized Access/Disclosure,Email,No
+"Allegheny Health Network Home Infusion, LLC",PA,Healthcare Provider,7500,01/21/2022,Hacking/IT Incident,Network Server,Yes
+"Advocates, Inc.",MA,Healthcare Provider,68236,01/21/2022,Hacking/IT Incident,Network Server,No
+Abington Memorial Hospital (dba Jefferson Abington Hospital),PA,Healthcare Provider,3475,01/20/2022,Hacking/IT Incident,Network Server,No
+"Thomas Jefferson University Hospital, Inc.",PA,Healthcare Provider,5239,01/20/2022,Hacking/IT Incident,Network Server,No
+Medical Review Institute of America,UT,Business Associate,2406,01/20/2022,Hacking/IT Incident,Network Server,Yes
+Caring Communities,IL,Business Associate,1659,01/20/2022,Hacking/IT Incident,Other,Yes
+Colorado Department of Human Services,CO,Healthcare Provider,6132,01/19/2022,Hacking/IT Incident,Network Server,Yes
+Golden State Dermatology,CA,Healthcare Provider,1010,01/19/2022,Unauthorized Access/Disclosure,Paper/Films,Yes
+Practolytics LLC,SC,Business Associate,1125,01/18/2022,Unauthorized Access/Disclosure,Electronic Medical Record,Yes
+Raveco Medical,NY,Healthcare Provider,4897,01/17/2022,Hacking/IT Incident,Network Server,No
+Volunteers of America Southwest California,CA,Healthcare Provider,1300,01/14/2022,Hacking/IT Incident,Email,No
+"Fiondella, Milone & LaSaracina, LLP",CT,Business Associate,6215,01/14/2022,Hacking/IT Incident,Network Server,Yes
+Albany Family Dentistry,MN,Healthcare Provider,1117,01/14/2022,Hacking/IT Incident,Email,No
+South City Hospital,MO,Healthcare Provider,21601,01/14/2022,Theft,"Network Server, Other",No
+"Vantage Holding Company, LLC",PA,Healthcare Provider,1762,01/14/2022,Hacking/IT Incident,Network Server,No
+"Digital Insurance, LLC doing business as OneDigital",GA,Business Associate,2051,01/14/2022,Hacking/IT Incident,Network Server,Yes
+Oscar Insurance Company of Florida,FL,Health Plan,6290,01/13/2022,Unauthorized Access/Disclosure,Paper/Films,No
+Oscar Insurance Corporation of Ohio,OH,Health Plan,504,01/13/2022,Unauthorized Access/Disclosure,Paper/Films,No
+Oscar Health Plan of California,NJ,Health Plan,7632,01/13/2022,Unauthorized Access/Disclosure,Paper/Films,No
+Oscar Buckeye State Insurance Corporation,OH,Health Plan,791,01/13/2022,Unauthorized Access/Disclosure,Paper/Films,No
+Millennium Eye Care LLC,NJ,Healthcare Provider,6050,01/13/2022,Hacking/IT Incident,Network Server,No
+Hospital Authority of Valdosta and Lowndes County Georgia,GA,Healthcare Provider,41692,01/12/2022,Unauthorized Access/Disclosure,Desktop Computer,No
+"Peck & Associates, PC",OK,Business Associate,2364,01/11/2022,Hacking/IT Incident,Network Server,Yes
+"Lakeshore Bone & Joint Institute, PC",IN,Healthcare Provider,23627,01/10/2022,Hacking/IT Incident,Email,No
+Heart ‘n Home Hospice,ID,Healthcare Provider,4769,01/07/2022,Hacking/IT Incident,Email,No
+Medical Review Institute of America,UT,Business Associate,134571,01/07/2022,Hacking/IT Incident,Network Server,Yes
+DataXport,TX,Business Associate,8181,01/07/2022,Hacking/IT Incident,Network Server,Yes
+Suncoast Skin Solutions,FL,Healthcare Provider,57730,01/07/2022,Hacking/IT Incident,Network Server,No
+TTEC Healthcare Solutions,CO,Business Associate,86305,01/07/2022,Hacking/IT Incident,Network Server,Yes
+"Advent Health Partners, Inc.",TN,Business Associate,1383,01/06/2022,Hacking/IT Incident,Email,Yes
+NYU Langone Hospitals,NY,Healthcare Provider,1123,01/06/2022,Unauthorized Access/Disclosure,Paper/Films,Yes
+"Houston Area Community Services, Inc. d/b/a Avenue 360 Health and Wellness",TX,Healthcare Provider,12186,01/05/2022,Hacking/IT Incident,Email,No
+Vanderbilt University Medical Center,TN,Healthcare Provider,556,01/05/2022,Hacking/IT Incident,Email,Yes
+Ravkoo,FL,Healthcare Provider,105000,01/03/2022,Hacking/IT Incident,Other,No
+"Brockton Hospital, Inc. d/b/a Signature Healthcare Brockton Hospital",MA,Healthcare Provider,9798,01/03/2022,Hacking/IT Incident,Email,No
+North Broward Hospital District d/b/a Broward Health (“Broward Health”),FL,Healthcare Provider,1351431,01/02/2022,Hacking/IT Incident,Network Server,No
+"Virtual Private Network Solutions, LLC d/b/a VPN Solutions, LLC",VA,Business Associate,500,12/30/2021,Hacking/IT Incident,Network Server,Yes
+Dr. Kochurani Puthumana,VA,Healthcare Provider,5000,12/30/2021,Hacking/IT Incident,Network Server,Yes
+"A New Leaf, Inc.",AZ,Healthcare Provider,10438,12/30/2021,Hacking/IT Incident,Network Server,No
+Ciox Health,GA,Business Associate,12493,12/30/2021,Hacking/IT Incident,Email,Yes
+Granite Falls Family Medical Care Center,NC,Healthcare Provider,1000,12/30/2021,Hacking/IT Incident,Network Server,Yes
+Anthem Affiliated Covered Entities,IN,Health Plan,7032,12/30/2021,Hacking/IT Incident,Network Server,Yes
+Barlow Respiratory Hospital,CA,Healthcare Provider,9880,12/30/2021,Hacking/IT Incident,Network Server,No
+Loyola University Medical Center,IL,Healthcare Provider,16934,12/30/2021,Hacking/IT Incident,Email,No
+"Peck & Associates, PC",OK,Business Associate,2138,12/29/2021,Hacking/IT Incident,Network Server,Yes
+"HOYA Optical Labs of America, Inc.",TX,Business Associate,14099,12/29/2021,Hacking/IT Incident,Network Server,Yes
+Douglas C Morrow ODPC,IN,Healthcare Provider,5269,12/28/2021,Hacking/IT Incident,Network Server,No
+"Pithadia Medical Professional Services, Inc.",IN,Healthcare Provider,1624,12/28/2021,Hacking/IT Incident,Network Server,No
+Advocate Aurora Health,WI,Healthcare Provider,1729,12/28/2021,Loss,Paper/Films,No
+"Florida Digestive Health Specialists, LLP",FL,Healthcare Provider,212509,12/27/2021,Unauthorized Access/Disclosure,"Email, Other",No
+Walgreen Co.,IL,Healthcare Provider,1352,12/27/2021,Loss,Paper/Films,No
+"Fertility Centers of Illinois, PLLC",IL,Healthcare Provider,79943,12/27/2021,Hacking/IT Incident,Network Server,No
+"MedQuest Pharmacy, Inc.",UT,Healthcare Provider,39447,12/23/2021,Hacking/IT Incident,Network Server,No
+C.E. Niehoff & Company,IL,Health Plan,1509,12/23/2021,Hacking/IT Incident,Network Server,No
+Duneland School Corporation,IN,Health Plan,7000,12/23/2021,Hacking/IT Incident,Network Server,No
+"Daniel J. Edelman Holdings, Inc.",IL,Health Plan,184500,12/22/2021,Hacking/IT Incident,Network Server,Yes
+"James Kagan, MD",CO,Healthcare Provider,1310,12/22/2021,Hacking/IT Incident,Email,No
+"Welfare, Pension and Annuity Funds of Local No. ONE, I.A.T.S.E.",NY,Health Plan,20579,12/21/2021,Hacking/IT Incident,Email,No
+Rhode Island Public Transit Authority,RI,Health Plan,5015,12/21/2021,Hacking/IT Incident,Network Server,No
+"Georgia Bone & Joint Surgeons, P.C.",GA,Healthcare Provider,501,12/21/2021,Hacking/IT Incident,Network Server,No
+Chaddock,IL,Healthcare Provider,777,12/21/2021,Theft,Paper/Films,No
+"Monongalia Health System, Inc.",WV,Healthcare Provider,398164,12/21/2021,Hacking/IT Incident,Email,No
+Skin Care Specialty Physicians,MD,Healthcare Provider,1553,12/21/2021,Theft,Paper/Films,No
+"Peck & Associates, PC",OK,Business Associate,1844,12/21/2021,Hacking/IT Incident,Network Server,Yes
+"Peck & Associates, PC",OK,Business Associate,901,12/21/2021,Hacking/IT Incident,Network Server,Yes
+Alabama Department of Rehabilitation Services,AL,Healthcare Provider,934,12/20/2021,Improper Disposal,Other Portable Electronic Device,No
+Southern Orthopaedic Associates d/b/a Orthopaedic Institute of Western Kentucky,KY,Healthcare Provider,106910,12/20/2021,Hacking/IT Incident,Email,No
+Surgery Group SC,IL,Healthcare Provider,500,12/17/2021,Hacking/IT Incident,Network Server,Yes
+Northwest Broward Orthopaedics Associates,FL,Healthcare Provider,500,12/17/2021,Hacking/IT Incident,"Desktop Computer, Network Server",No
+Apple Blossom Family Practice,VA,Healthcare Provider,500,12/16/2021,Hacking/IT Incident,Network Server,Yes
+"Andrew Sauchelli, DMD",FL,Health Plan,3416,12/16/2021,Hacking/IT Incident,Network Server,No
+UAW Retiree Medical Benefits Trust,MI,Health Plan,576,12/14/2021,Hacking/IT Incident,Network Server,Yes
+Oregon Eye Specialists,OR,Healthcare Provider,42612,12/13/2021,Hacking/IT Incident,Network Server,No
+Texas ENT Specialists,TX,Healthcare Provider,535489,12/10/2021,Hacking/IT Incident,Network Server,No
+"BioPlus Specialty Pharmacy Services, LLC",FL,Healthcare Provider,350000,12/10/2021,Hacking/IT Incident,Network Server,No
+"Eduro Healthcare, LLC",UT,Healthcare Provider,8059,12/09/2021,Hacking/IT Incident,Email,No
+Sacramento County Department of Health Services,CA,Healthcare Provider,2096,12/09/2021,Hacking/IT Incident,Email,No
+"Weddell Pediatric Dental Specialists, LLC",IN,Healthcare Provider,5356,12/08/2021,Hacking/IT Incident,Email,No
+Javery Pain Institute,MI,Healthcare Provider,1387,12/08/2021,Hacking/IT Incident,Email,No
+OSR Physical Therapy,AZ,Healthcare Provider,714,12/07/2021,Hacking/IT Incident,Email,No
+Wind River Family and Community Health Care,WY,Healthcare Provider,12938,12/07/2021,Unauthorized Access/Disclosure,Email,No
+"Summit Surgical, LLC",KS,Healthcare Provider,500,12/07/2021,Hacking/IT Incident,Network Server,No
+Hope Group LLC,AZ,Healthcare Provider,1510,12/07/2021,Hacking/IT Incident,Email,No
+"Oregon Anesthesiology Group, P.C.",OR,Healthcare Provider,750500,12/06/2021,Hacking/IT Incident,Network Server,No
+Nippon Life Insurance Company of America,NY,Health Plan,4109,12/03/2021,Unauthorized Access/Disclosure,Email,No
+"Bansley and Kiener, LLP",IL,Business Associate,50119,12/03/2021,Hacking/IT Incident,Network Server,Yes
+Baylor Scott & White Medical Center - Waxahachie,TX,Healthcare Provider,883,12/03/2021,Unauthorized Access/Disclosure,Electronic Medical Record,No
+"Bansley and Kiener, LLP",IL,Business Associate,2297,12/03/2021,Hacking/IT Incident,Network Server,Yes
+"Bansley and Kiener, LLP",IL,Business Associate,2711,12/03/2021,Hacking/IT Incident,Network Server,Yes
+"Bansley and Kiener, LLP",IL,Business Associate,15814,12/03/2021,Hacking/IT Incident,Network Server,Yes
+Mertz Manufacturing Inc Health Insurance Plan,OK,Health Plan,868,12/03/2021,Hacking/IT Incident,Network Server,No
+Department of Behavioral Health and Developmental Services,VA,Healthcare Provider,4037,12/03/2021,Unauthorized Access/Disclosure,Other,No
+"Great Plains Manufacturing, Inc",KS,Health Plan,4110,12/01/2021,Hacking/IT Incident,Network Server,No
